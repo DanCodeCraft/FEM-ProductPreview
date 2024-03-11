@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DanCodeCraft/FEM-ProductPreview/tree/main)
-- Live Site URL: [Add live site URL here](https://fem-product-preview-alpha.vercel.app/)
+- Solution URL: [Solution](https://github.com/DanCodeCraft/FEM-ProductPreview/tree/main)
+- Live Site URL: [Live Site](https://fem-product-preview-alpha.vercel.app/)
 
 ## My process
 
