@@ -55,7 +55,7 @@ I learned a lot about manipulating grid layouts.
 
 - Website - [LinkedIn](https://www.linkedin.com/in/adannjacinto/)
 - Frontend Mentor - [@DanCodeCraft](https://www.frontendmentor.io/profile/DanCodeCraft)
-- Twitter - [@yourusername](https://www.twitter.com/DanCodeCraft)
+- Twitter - [@DanCodeCraft](https://www.twitter.com/DanCodeCraft)
 
 ## Acknowledgments
 
