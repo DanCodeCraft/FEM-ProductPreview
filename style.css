@@ -159,8 +159,8 @@ FONT SIZE SYSTEM (px)
 .footer {
   display: grid;
   place-content: center;
-  color: var(--white);
-  font-size: 8px;
+  color: var(--darkblue);
+  font-size: 0.6rem;
   padding-top: 24px;
 }
 
@@ -174,5 +174,9 @@ FONT SIZE SYSTEM (px)
 
   .product-title {
     font-size: 2.2rem;
+  }
+
+  .footer {
+    font-size: 1rem;
   }
 }
